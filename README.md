@@ -1,10 +1,10 @@
 # Windows Caption Logger
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/License-Private-red)](https://github.com/flap1/windows-caption-logger)
 
-Real-time Windows Live Caption text capture and logging tool
+Real-time Windows Live Caption text capture and logging tool for accessibility and transcription purposes.
 
 ## Features
 - Automatic monitoring of Windows Live Captions
@@ -47,3 +47,22 @@ uv sync
 ```bash
 uv run main.py
 ```
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+- **flap1** - *Initial work*
+
+## Acknowledgments
+- Windows Accessibility team for Live Captions feature
+- Python community for the excellent libraries
